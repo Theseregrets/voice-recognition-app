@@ -6,12 +6,14 @@ const content = document.querySelector('.content')
 const greetings = [
     'im good you little piece of sugar crush',
     'i will be good. care about yourself',
-    'leave me alone'
+    'leave me alone',
+    'well bitter and too hot for you'
 ]
 
 const weather = [
     'why do you even care all you do is stay at home and eat',
-    'weather is great but you will stay at home so why do you care'
+    'weather is great but you will stay at home so why do you care',
+    'weather is pretty. by the way You are looking so pretty! You will get a boyfriend! Your life isn’t absolute shit!'
 ]
 const work =
     'you should work now and build something real intead of doing meaningless work and being a burden on earth. you little piece of shit'
