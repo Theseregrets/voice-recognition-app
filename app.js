@@ -46,8 +46,8 @@ function readOutLoud(message) {
         speech.text = finalText;
     }
     else if (message.includes('weather')) {
-        const finalText = weather[Math.floor(Math.random() * greetings.length)]
-        speech.text = finalText;
+        const weatherText = weather[Math.floor(Math.random() * weather.length)]
+        speech.text = weatherText;
     }
     else if (message.includes('are you working')) {
         const finalText = work
